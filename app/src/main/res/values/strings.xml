@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Counter Application</string>
+    <string name="find_beer">Find Beer</string>
+    <string name="brands">No beers selected</string>
+    <string name="reset">reset</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="hint">0</string>
+    <string name="share">share count</string>
+    <string name="shareImage">Share Image</string>
+</resources>
